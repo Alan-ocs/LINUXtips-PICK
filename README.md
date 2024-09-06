@@ -1,1 +1,3 @@
 # Resolução Desafio - PICK 2024_01
+
+Vamos a resolução do desafio PICK 2024 01, https://github.com/badtuxx/LINUXtips-PICK-24_01, ...
